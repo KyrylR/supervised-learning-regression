@@ -1,2 +1,1 @@
-# supervised-learning-regression
- 
+# Supervised learning (Regression problem)
